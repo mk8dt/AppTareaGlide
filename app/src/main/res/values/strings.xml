@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTareaGlide</string>
+    <string name="txtPokemon">Introduce el número de Pokémon que deseas visualizar</string>
+    <string name="hint">Número de Pokémon</string>
+    <string name="btn">ACCEDER</string>
+    <string name="clave_num_pokemon">NUM_POKEMON</string>
+</resources>
